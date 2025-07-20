@@ -1,4 +1,4 @@
-package stack;
+package queue.stack;
 
 import java.util.EmptyStackException;
 

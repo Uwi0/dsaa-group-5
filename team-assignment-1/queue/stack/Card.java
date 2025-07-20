@@ -1,4 +1,4 @@
-package stack;
+package queue.stack;
 
 class Card {
     String suit;
